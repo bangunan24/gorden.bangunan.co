@@ -1,92 +1,51 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-<<<<<<< HEAD
-    name: Wawan
+    name: Fajar
     message: >-
       Saya memasang gorden dari gorden.bangunan.co di rumah saya, dan hasilnya
-      luar biasa. Kualitasnya bagus dan pemasangannya rapi.
-=======
-    name: Eko
-    message: >-
-      Saya memasang gorden dari gorden.bangunan.co di rumah saya, dan hasilnya
-      luar biasa. Kualitasnya bagus dan pemasangannya cepat.
->>>>>>> 078e68daa068f1656f90ce867903af594e8c1763
+      sangat memuaskan. Kualitasnya bagus dan pemasangannya rapi.
     response: >-
-      Terima kasih atas kepercayaannya! Kami senang dapat menyediakan gorden
-      terbaik untuk rumah Anda.
+      Kami sangat menghargai kepercayaan Anda. Senang mendengar Anda puas dengan
+      gorden kami!
     rating: 4
   - avatar: /images/admin/avatar2.png
-<<<<<<< HEAD
-    name: Siti
-    message: >-
-      gorden.bangunan.co sangat membantu dalam melengkapi dekorasi rumah saya.
-      Gorden yang saya pilih hebat dan cocok dengan desain interior saya.
-=======
     name: Ayu
     message: >-
-      Saya sangat puas dengan layanan dari gorden.bangunan.co. Gorden yang saya
-      pilih sesuai dengan gaya desain interior rumah saya.
->>>>>>> 078e68daa068f1656f90ce867903af594e8c1763
+      Saya senang dengan layanan dari gorden.bangunan.co. Gorden yang saya pilih
+      sesuai dengan gaya desain interior rumah saya.
     response: >-
       Terima kasih atas ulasan positifnya. Kami senang dapat memenuhi kebutuhan
       gorden rumah Anda!
     rating: 5
   - avatar: /images/admin/avatar3.png
-<<<<<<< HEAD
-    name: Faisal
+    name: Rizal
     message: >-
-      Gorden dari gorden.bangunan.co indah dan cocok untuk ruang tamu saya.
-      Proses pemasangan juga efisien dan profesional.
-=======
-    name: Bambang
-    message: >-
-      Layanan dari gorden.bangunan.co efisien dan hasilnya elegan untuk ruang
-      tamu saya.
->>>>>>> 078e68daa068f1656f90ce867903af594e8c1763
+      Layanan dari gorden.bangunan.co cepat dan hasilnya hebat untuk ruang tamu
+      saya.
     response: >-
-      Kami senang bisa bekerja sama dengan Anda. Terima kasih atas
-      kepercayaannya!
+      Terima kasih! Kami berkomitmen untuk menyediakan gorden yang praktis dan
+      elegan.
     rating: 4
   - avatar: /images/admin/avatar4.png
-<<<<<<< HEAD
-    name: Toni
-    message: >-
-      Gorden dari gorden.bangunan.co berkualitas, dan pemasangannya efisien
-      serta cocok dengan desain rumah saya.
-=======
     name: Yudi
     message: >-
-      Saya senang dengan pemasangan gorden dari gorden.bangunan.co. Gorden
-      tersebut pas dengan desain minimalis yang saya inginkan.
->>>>>>> 078e68daa068f1656f90ce867903af594e8c1763
+      Gorden dari gorden.bangunan.co hebat, dan pemasangannya cepat serta cocok
+      dengan desain rumah saya.
     response: >-
       Senang mendengar Anda puas dengan produk dan layanan kami. Terima kasih
       atas kepercayaannya!
     rating: 5
   - avatar: /images/admin/avatar5.png
-<<<<<<< HEAD
-    name: Nur
+    name: Diah
     message: >-
-      Pelayanan gorden.bangunan.co sangat memuaskan. Gorden yang saya gunakan di
-      kantor sangat bagus dan sesuai dengan harapan saya.
-    response: >-
-      Terima kasih! Kami senang dapat membantu mempercantik kantor Anda dengan
-      gorden terbaik.
-    rating: 4.5
-  - avatar: /images/admin/avatar6.png
-    name: Rio
-=======
-    name: Dewi
-    message: >-
-      Pelayanan gorden.bangunan.co sangat memuaskan. Gorden yang saya gunakan di
-      kantor sangat berkualitas dan sesuai dengan ekspektasi saya.
+      Saya puas dengan layanan dari gorden.bangunan.co. Kualitas gordennya
+      sangat baik dan pemasangannya rapi.
     response: >-
       Kami sangat menghargai ulasan Anda. Terima kasih telah mempercayakan
       kebutuhan gorden Anda kepada kami!
-    rating: 4.5
+    rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Galih
->>>>>>> 078e68daa068f1656f90ce867903af594e8c1763
+    name: Eko
     message: >-
       Gorden dari gorden.bangunan.co sangat sesuai dengan desain interior rumah
       saya. Pemasangannya juga aman dan gordennya berkualitas tinggi.

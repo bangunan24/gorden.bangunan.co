@@ -116,7 +116,7 @@ paginate = 6
   name = "{Rina|Siti|Lina|Dewi|Ayu|Sari|Fitri|Maya|Nur|Diah}"
   message = "{Pelayanan gorden.bangunan.co {sangat memuaskan|luar biasa}. Gorden yang saya {pasang|gunakan} di kantor sangat {berkualitas|bagus} dan sesuai dengan {harapan|ekspektasi} saya.|Saya {senang|puas} dengan layanan dari gorden.bangunan.co. Kualitas gordennya {sangat baik|hebat} dan pemasangannya {rapi|profesional}.}"
   response = "{Terima kasih! Kami senang dapat membantu mempercantik kantor Anda dengan gorden {terbaik|berkualitas}.|Kami sangat menghargai ulasan Anda. Terima kasih telah mempercayakan kebutuhan gorden Anda kepada kami!}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar6.png"
