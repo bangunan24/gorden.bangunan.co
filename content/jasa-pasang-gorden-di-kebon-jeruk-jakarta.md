@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Gorden di Kebon Jeruk Jakarta"
-date: "2024-05-24"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Gorden di Kebon Jeruk Jakarta. Sampai disini info yang bisa kami sampaikan mengenai Jasa Pasang Gorden di Kebon Jeruk Jakarta. Semoga info terseb..."
+title: Jasa Pasang Gorden di Kebon Jeruk Jakarta
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Gorden di Kebon Jeruk Jakarta. Sampai disini info yang bisa kami
+  sampaikan mengenai Jasa Pasang Gorden di Kebon Jeruk Jakarta. Semoga info
+  terseb...
 ---
 
 **Jasa Pasang Gorden di Kebon Jeruk Jakarta** – Apa sih yang anda kenal tentang gorden? Gorden adalah beberapa kain yg diterapkan untuk menghalangi sinar Sang surya. Setiap orang yg memiliki rumah Pastinya ada gorden di dalamnya. Benda yang satu ini ditempatkan pada sisi tertentu agar bisa menutupi pandangan dari luar ke dalam ruangan.
