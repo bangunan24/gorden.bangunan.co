@@ -1,15 +1,15 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Joko
+    name: Eko
     message: >-
-      Layanan dari gorden.bangunan.co sangat bagus, gorden yang saya pasang
-      terbaik dan pemasangannya teratur.
+      Saya memasang gorden dari gorden.bangunan.co di rumah saya, dan hasilnya
+      luar biasa. Kualitasnya hebat dan pemasangannya rapi.
     response: >-
-      Terima kasih atas kepercayaannya! Kami senang dapat menyediakan gorden
-      berkualitas untuk rumah Anda.
+      Kami sangat menghargai kepercayaan Anda. Senang mendengar Anda puas dengan
+      gorden kami!
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Diah
+    name: Dewi
     message: >-
       Saya senang dengan layanan dari gorden.bangunan.co. Gorden yang saya pilih
       sesuai dengan gaya desain interior rumah saya.
@@ -18,37 +18,37 @@ testimonials:
       gorden rumah Anda!
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Rizal
+    name: Joko
     message: >-
-      Gorden dari gorden.bangunan.co sangat elegan dan cocok untuk ruang tamu
-      saya. Proses pemasangan juga sangat cepat dan rapi.
+      Gorden dari gorden.bangunan.co indah dan cocok untuk ruang tamu saya.
+      Proses pemasangan juga efisien dan rapi.
     response: >-
-      Terima kasih! Kami berkomitmen untuk menyediakan gorden yang fungsional
-      dan estetis.
+      Kami senang bisa bekerja sama dengan Anda. Terima kasih atas
+      kepercayaannya!
     rating: 4
   - avatar: /images/admin/avatar4.png
     name: Eko
     message: >-
-      Gorden dari gorden.bangunan.co berkualitas, dan pemasangannya efisien
-      serta cocok dengan desain rumah saya.
+      Gorden dari gorden.bangunan.co berkualitas, dan pemasangannya cepat serta
+      cocok dengan desain rumah saya.
     response: >-
-      Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih
-      layanan kami!
+      Senang mendengar Anda puas dengan produk dan layanan kami. Terima kasih
+      atas kepercayaannya!
     rating: 5
   - avatar: /images/admin/avatar5.png
     name: Siti
     message: >-
-      Saya puas dengan layanan dari gorden.bangunan.co. Kualitas gordennya
-      sangat baik dan pemasangannya rapi.
+      Saya senang dengan layanan dari gorden.bangunan.co. Kualitas gordennya
+      sangat baik dan pemasangannya profesional.
     response: >-
       Kami sangat menghargai ulasan Anda. Terima kasih telah mempercayakan
       kebutuhan gorden Anda kepada kami!
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Benny
+    name: Yanto
     message: >-
-      Saya terkesan dengan layanan dari gorden.bangunan.co. Gorden yang saya
-      pasang kokoh dan proses pemasangannya efisien.
+      Gorden dari gorden.bangunan.co sangat sesuai dengan desain interior rumah
+      saya. Pemasangannya juga cepat dan gordennya hebat.
     response: >-
       Kami senang mendengar bahwa Anda puas dengan produk dan pemasangan kami.
       Terima kasih atas ulasannya!
