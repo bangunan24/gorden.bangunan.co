@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Gorden di Kartini Jakarta"
-date: "2024-08-12"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Gorden di Kartini Jakarta. Begitulah info yg bisa kami uraikan perihal Jasa Pasang Gorden di Kartini Jakarta. Kami berharap uraian tadi berguna u..."
+title: Jasa Pasang Gorden di Kartini Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Gorden di Kartini Jakarta. Begitulah info yg bisa kami uraikan
+  perihal Jasa Pasang Gorden di Kartini Jakarta. Kami berharap uraian tadi
+  berguna u...
 ---
 
 **Jasa Pasang Gorden di Kartini Jakarta** – Apa sih yang anda kenal seputar gorden? Gorden yaitu bagian kain yg dipakai untuk menghalangi cahaya Sang surya. Tiap orang yang memiliki tempat tinggal Tentunya ada gorden di dalamnya. Benda yang satu ini ditempatkan pada sisi tertentu agar dapat menutupi sorotan cahaya matahari yang masuk ke dalam ruangan.

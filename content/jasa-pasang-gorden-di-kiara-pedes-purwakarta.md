@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Gorden di Kiara Pedes Purwakarta"
-date: "2024-08-18"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Gorden di Kiara Pedes Purwakarta. Sampai disini informasi yg dapat kami jelaskan tentang Jasa Pasang Gorden di Kiara Pedes Purwakarta. Semoga inf..."
+title: Jasa Pasang Gorden di Kiara Pedes Purwakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Gorden di Kiara Pedes Purwakarta. Sampai disini informasi yg dapat
+  kami jelaskan tentang Jasa Pasang Gorden di Kiara Pedes Purwakarta. Semoga
+  inf...
 ---
 
 **Jasa Pasang Gorden di Kiara Pedes Purwakarta** – Apa sih yang anda tahu tentang gorden? Gorden adalah bagian kain yg dipakai untuk menghalangi sinar Sang surya. Tiap orang yg memiliki hunian Pastinya terdapat gorden di dalamnya. Benda yang satu ini ditempatkan pada sisi tertentu agar dapat menutupi sorotan cahaya sang surya yang masuk ke dalam ruangan.

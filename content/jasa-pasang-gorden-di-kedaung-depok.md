@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Gorden di Kedaung Depok"
-date: "2024-08-04"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Gorden di Kedaung Depok. Sampai disini uraian yg dapat kami jelaskan perihal Jasa Pasang Gorden di Kedaung Depok. Mudah-mudahan uraian tadi berma..."
+title: Jasa Pasang Gorden di Kedaung Depok
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Gorden di Kedaung Depok. Sampai disini uraian yg dapat kami
+  jelaskan perihal Jasa Pasang Gorden di Kedaung Depok. Mudah-mudahan uraian
+  tadi berma...
 ---
 
 **Jasa Pasang Gorden di Kedaung Depok** – Apa sih yg anda ketahui tentang gorden? Gorden yakni salah satu kain yang digunakan untuk menghambat sinar Matahari. Tiap orang yang memiliki rumah Pastinya ada gorden di dalamnya. Benda yang satu ini ditempatkan pada bagian tertentu supaya bisa menutupi pancaran cahaya sang surya yang masuk ke dalam ruangan.

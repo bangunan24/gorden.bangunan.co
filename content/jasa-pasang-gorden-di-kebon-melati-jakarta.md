@@ -1,9 +1,12 @@
 ---
-title: "Jasa Pasang Gorden di Kebon Melati Jakarta"
-date: "2024-08-26"
-categories: 
-  - "biaya"
-description: "Jasa Pasang Gorden di Kebon Melati Jakarta. Begitulah informasi yang dapat kami sampaikan perihal Jasa Pasang Gorden di Kebon Melati Jakarta. Kami berharap p..."
+title: Jasa Pasang Gorden di Kebon Melati Jakarta
+date: '2025-08-01'
+categories:
+  - biaya
+description: >-
+  Jasa Pasang Gorden di Kebon Melati Jakarta. Begitulah informasi yang dapat
+  kami sampaikan perihal Jasa Pasang Gorden di Kebon Melati Jakarta. Kami
+  berharap p...
 ---
 
 **Jasa Pasang Gorden di Kebon Melati Jakarta** – Apa sih yang anda tahu tentang gorden? Gorden ialah beberapa kain yang diaplikasikan untuk menghambat cahaya Matahari. Tiap orang yg mempunyai tempat tinggal Pastinya terdapat gorden di dalamnya. Benda yang satu ini ditempatkan pada bagian tertentu agar bisa menutupi sorotan sinar sang surya yg masuk ke dalam ruangan.
