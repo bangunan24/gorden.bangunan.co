@@ -1,6 +1,6 @@
 ---
 title: Jasa Pasang Gorden di Balikpapan
-date: '2025-07-01'
+date: '2026-07-01'
 categories:
   - biaya
 description: >-
